@@ -9,4 +9,5 @@ Summary: Supernova analysis
 
 This is the content. Should include a download link and preview.
 
-![doc](https://www.dropbox.com/s/v3qzvblv2s2j3ke/NHFP_Previous_and_Future_Research.pdf?dl=1)
+![doc](https://www.dropbox.com/s/v3qzvblv2s2j3ke/NHFP_Previous_and_Future_Research.pdf?raw=1)
+
