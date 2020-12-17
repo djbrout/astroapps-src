@@ -3,7 +3,7 @@
 
 AUTHOR = 'Dillon Brout'
 SITENAME = 'AstroApps'
-SITEURL = ''
+SITEURL = 'https://djbrout.github.io/astroapps'
 
 PATH = 'content'
 
