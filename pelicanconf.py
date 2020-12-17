@@ -19,10 +19,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Home', 'https://djbrout.github.io/astroapps'),
+         ('Archives', 'https://djbrout.github.io/astroapps/archives.html'),
+         ('Tags', 'https://djbrout.github.io/astroapps/tags.html'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -31,9 +30,13 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 THEME = "/Users/djbrout/Dropbox/astroapps/ghpages/themes/pelican-themes/aboutwilson"
+#THEME = "/Users/djbrout/Dropbox/astroapps/ghpages/themes/pelican-themes/voce"
 
-PLUGIN_PATHS = ["plugins", "/Users/djbrout/Dropbox/astroapps/ghpages/pelican-plugins"]
-PLUGINS = ['pdf-img']
+
+
+
+PLUGIN_PATHS = ["plugins", "/Users/djbrout/Dropbox/astroapps/ghpages/pelican-plugins/"]
+PLUGINS = ["assets"]
 
 DISQUS_SITENAME = "astroapps"
 

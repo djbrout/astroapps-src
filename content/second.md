@@ -1,9 +1,9 @@
 Title: Einstein Fellowship (Accepted)
 Date: 2020-12-03 10:20
 Modified: 2020-12-05 19:30
-Category: Application
+Category: Fellowship
 Tags: Einstien, fellowship, supernova, cosmology
-Slug: einstein1
+Slug: einstein2
 Authors: Anonymous
 Summary: Supernova analysis
 
