@@ -35,5 +35,8 @@ THEME = "/Users/djbrout/Dropbox/astroapps/ghpages/themes/pelican-themes/aboutwil
 PLUGIN_PATHS = ["plugins", "/Users/djbrout/Dropbox/astroapps/ghpages/pelican-plugins"]
 PLUGINS = []
 
+DISQUS_SITENAME = "astroapps"
+
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
