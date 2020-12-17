@@ -1,10 +1,10 @@
-Title: My super title
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
-Category: Python
-Tags: pelican, publishing
+Title: Einstein Fellowship (Accepted)
+Date: 2020-12-03 10:20
+Modified: 2020-12-05 19:30
+Category: Application
+Tags: Einstien, fellowship
 Slug: my-super-post
-Authors: Alexis Metaireau, Conan Doyle
-Summary: Short version for index and feeds
+Authors: Anonymous
+Summary: summary here
 
-This is the content of my super blog post.
+This is the content. Should include a download link and preview.
