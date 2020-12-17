@@ -33,7 +33,7 @@ DEFAULT_PAGINATION = 10
 THEME = "/Users/djbrout/Dropbox/astroapps/ghpages/themes/pelican-themes/aboutwilson"
 
 PLUGIN_PATHS = ["plugins", "/Users/djbrout/Dropbox/astroapps/ghpages/pelican-plugins"]
-PLUGINS = ["assets", "liquid_tags", "sitemap", "pelican_comment_system"]
+PLUGINS = []
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
