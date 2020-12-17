@@ -3,7 +3,7 @@
 
 AUTHOR = 'Dillon Brout'
 SITENAME = 'AstroApps'
-SITEURL = 'http://djbrout.github.io/astroapps'
+SITEURL = 'https://djbrout.github.io/astroapps'
 
 PATH = 'content'
 
@@ -33,7 +33,7 @@ DEFAULT_PAGINATION = 10
 THEME = "/Users/djbrout/Dropbox/astroapps/ghpages/themes/pelican-themes/aboutwilson"
 
 PLUGIN_PATHS = ["plugins", "/Users/djbrout/Dropbox/astroapps/ghpages/pelican-plugins"]
-PLUGINS = []
+PLUGINS = ['pdf-img']
 
 DISQUS_SITENAME = "astroapps"
 
