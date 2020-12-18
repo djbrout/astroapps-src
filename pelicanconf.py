@@ -19,9 +19,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Home', 'https://djbrout.github.io/astroapps'),
-         ('Archives', 'https://djbrout.github.io/astroapps/archives.html'),
-         ('Tags', 'https://djbrout.github.io/astroapps/tags.html'),)
+LINKS = (('Home', 'index.html'),
+         ('Archives', 'archives.html'),
+         ('Tags', 'tags.html'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),

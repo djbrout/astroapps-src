@@ -1,9 +1,9 @@
-Title: Einstein Fellowship (Accepted)
-Date: 2020-12-03 10:20
+Title: NGRFP Graduate Fellowship (Accepted)
+Date: 2020-12-04 10:20
 Modified: 2020-12-05 19:30
-Category: Fellowship
-Tags: Einstien, fellowship, supernova, cosmology
-Slug: einstein2
+Category: NGRFP
+Tags: NGRFP, graduate, fellowship
+Slug: ngrfp1
 Authors: Anonymous
 Summary: Supernova analysis
 
