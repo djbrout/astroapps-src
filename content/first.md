@@ -1,7 +1,7 @@
 Title: Einstein Fellowship 1 (Accepted) 
 Date: 2020-12-18 10:18
 Modified: 2020-12-18 19:30
-Category: NASA Hubble Fellowship Program
+Category: NASA Hubble Fellowship Program (NHFP)
 Tags:  supernova, cosmology, postdoc, fellowship
 Slug: einstein1
 Authors: Dillon Brout
