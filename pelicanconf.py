@@ -19,21 +19,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Home', 'index.html'),
-         ('Archives', 'archives.html'),
-         ('Tags', 'tags.html'),)
+LINKS = (('Home', '../index.html'),
+         ('Archives', '../archives.html'),
+         ('Tags', '../tags.html'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Astrobites', '#'),
+          ('Another link', '#'),)
 
 DEFAULT_PAGINATION = 10
 
 THEME = "/Users/djbrout/Dropbox/astroapps/ghpages/themes/pelican-themes/aboutwilson"
 #THEME = "/Users/djbrout/Dropbox/astroapps/ghpages/themes/pelican-themes/voce"
-
-
-
 
 PLUGIN_PATHS = ["plugins", "/Users/djbrout/Dropbox/astroapps/ghpages/pelican-plugins/"]
 PLUGINS = ["assets"]
