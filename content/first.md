@@ -1,7 +1,7 @@
-Title: Einstein Fellowship 1 (Accepted)
+Title: Einstein Fellowship 1 (Accepted) 
 Date: 2020-12-18 10:18
 Modified: 2020-12-18 19:30
-Category: Hubble/Einstein/Sagan Fellowship
+Category: Hubble-Einstein-Sagan Fellowship
 Tags: Einstien, fellowship, supernova, cosmology, Hubble
 Slug: einstein1
 Authors: Dillon Brout
