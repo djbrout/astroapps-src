@@ -1,7 +1,7 @@
-Title: FINESST Graduate Fellowship (Accepted)
+Title: NGRFP Graduate Fellowship (Accepted)
 Date: 2020-12-18 10:20
 Modified: 2020-12-18 19:31
-Category: Future Investigators in NASA Earth and Space Science and Technology (FINESST)
+Category: NASA Graduate Research Fellowship Program (NGRFP)
 Tags: stellar, galaxies, graduate
 Slug: ngrfp1
 Authors: Anonymous
