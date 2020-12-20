@@ -1,8 +1,8 @@
 Title: NGRFP Graduate Fellowship (Accepted)
 Date: 2020-12-18 10:20
 Modified: 2020-12-18 19:31
-Category: NASA Graduate Research Fellowship Program (NGRFP)
-Tags: NGRFP, graduate, fellowship
+Category: Future Investigators in NASA Earth and Space Science and Technology (FINESST)
+Tags: stellar, galagies, graduate
 Slug: ngrfp1
 Authors: Anonymous
 Summary: Supernova analysis
