@@ -22,4 +22,4 @@ DELETE_OUTPUT_DIRECTORY = False
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = "astroapps"
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "G-EBFVZDB383"
