@@ -21,5 +21,5 @@ DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = "astroapps"
+DISQUS_SITENAME = "astro-apps"
 GOOGLE_ANALYTICS = "G-EBFVZDB383"
