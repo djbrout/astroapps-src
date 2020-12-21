@@ -10,6 +10,6 @@ Summary:
 Below is the full Jansky application. 
 
 
-<object data="content/apps/mcguire_jansky.pdf" type="application/pdf" width="700px" height="800px">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="content/apps/mcguire_jansky.pdf">Download PDF</a>.</p>
+<object data="https://www.dropbox.com/s/esz998x16zfwj1p/mcguire_jansky.pdf?raw=1" type="application/pdf" width="700px" height="800px">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.dropbox.com/s/esz998x16zfwj1p/mcguire_jansky.pdf?raw=1">Download PDF</a>.</p>
 </object>
