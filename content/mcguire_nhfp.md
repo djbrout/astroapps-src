@@ -2,7 +2,7 @@ Title: Hubble Fellowship 1 (Accepted)
 Date: 2020-12-21 10:18
 Modified: 2020-12-21 19:30
 Category: NASA Hubble Fellowship Program (NHFP)
-Tags:  radio, spectroscopy, chemistry
+Tags:  Radio, Spectroscopy, Chemistry
 Slug: mcguire-nhfp
 Authors: Brett McGuire
 Summary: 

@@ -2,7 +2,7 @@ Title: Jansky Postdoctoral Fellowship 1 (Accepted)
 Date: 2020-12-21 10:18
 Modified: 2020-12-21 19:30
 Category: Jansky Postdoctoral Fellowship
-Tags: radio, spectroscopy, chemistry
+Tags: Radio, Spectroscopy, Chemistry
 Slug: mcguire-jansky
 Authors: Brett McGuire
 Summary: 
