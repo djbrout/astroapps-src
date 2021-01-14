@@ -2,7 +2,7 @@ Title: Hubble Fellowship 2 (Accepted)
 Date: 2021-01-13 10:18
 Modified: 2021-01-13 19:30
 Category: NASA Hubble Fellowship Program (NHFP)
-Tags:  Stars, Exoplanets, Simulations
+Tags:  Stars, Exoplanets, Simulations, PostDoc
 Slug: tayar-nhfp
 Authors: Jamie Tayar
 Summary: 
